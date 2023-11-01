@@ -27,6 +27,11 @@ public class Ejemplo05 {
         System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
                 "\n"+ nacimiento); */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);  
+        
+        /*
+        \t sirve para generar un espacio entre dos variables
+        \n\t sirve para generar la variable + generar un espacio en otra linea y seguido escribir la segunda variable 
+        */
     }
 }

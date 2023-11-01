@@ -53,7 +53,7 @@ public class Ejemplo3 {
 
         System.out.printf("Asignatura: %s\nNota 1:%.2f\nAsignatura 2:%s\n "
                 + "Nota 2: %.2f\nAsignatura 3:%s\n "
-                + "Nota 3: %.2f\nPromedio:%.2f\nNombre de estudiante: ",
+                + "Nota 3: %.2f\nPromedio:%.2f\nNombre de estudiante:%s\n",
                 nombreAsignatura1,
                 notaAsignatura1,
                 nombreAsignatura2,
